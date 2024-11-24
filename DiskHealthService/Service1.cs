@@ -207,7 +207,7 @@ namespace DiskHealthService
             {
                 LogToFile($"E-posta gönderimi sırasında hata: {ex.Message}");
             }
-        }
+        } 
         private void LogToFile(string message)
         {
             try
