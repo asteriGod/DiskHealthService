@@ -20,6 +20,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{DE87DCD1-2E8C-4DCA-8806-B27CB1534CD1}|DiskHealthService\\DiskHealthService.csproj|C:\\Users\\perih\\OneDrive\\Masa\u00FCst\u00FC\\ForGithub\\DiskHealthService\\diskhealthservice\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DE87DCD1-2E8C-4DCA-8806-B27CB1534CD1}|DiskHealthService\\DiskHealthService.csproj|solutionrelative:diskhealthservice\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE87DCD1-2E8C-4DCA-8806-B27CB1534CD1}|DiskHealthService\\DiskHealthService.csproj|c:\\users\\perih\\onedrive\\masa\u00FCst\u00FC\\forgithub\\diskhealthservice\\diskhealthservice\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,7 +59,8 @@
               "ToolTip": "C:\\Users\\perih\\OneDrive\\Masa\u00FCst\u00FC\\ForGithub\\DiskHealthService\\DiskHealthService\\DiskHealthService.csproj",
               "RelativeToolTip": "DiskHealthService\\DiskHealthService.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-24T01:29:45.998Z"
+              "WhenOpened": "2024-11-24T01:29:45.998Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -68,7 +72,8 @@
               "RelativeToolTip": "DiskHealthService\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-11-23T03:22:07.177Z"
+              "WhenOpened": "2024-11-23T03:22:07.177Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -78,7 +83,7 @@
               "RelativeDocumentMoniker": "DiskHealthService\\Service1.cs",
               "ToolTip": "C:\\Users\\perih\\OneDrive\\Masa\u00FCst\u00FC\\ForGithub\\DiskHealthService\\DiskHealthService\\Service1.cs",
               "RelativeToolTip": "DiskHealthService\\Service1.cs",
-              "ViewState": "AgIAAMYAAAAAAAAAAAAYwNEAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAANkAAAAAAAAAAAAuwN4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T02:51:48.611Z",
               "EditorCaption": ""
@@ -93,7 +98,8 @@
               "RelativeToolTip": "DiskHealthService\\ProjectInstaller.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T02:53:44.934Z"
+              "WhenOpened": "2024-11-23T02:53:44.934Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -104,7 +110,8 @@
               "ToolTip": "C:\\Users\\perih\\OneDrive\\Masa\u00FCst\u00FC\\ForGithub\\DiskHealthService\\DiskHealthService\\ProjectInstaller.cs [Design]",
               "RelativeToolTip": "DiskHealthService\\ProjectInstaller.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T02:53:32.766Z"
+              "WhenOpened": "2024-11-23T02:53:32.766Z",
+              "EditorCaption": " [Design]"
             }
           ]
         },
@@ -115,10 +122,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
