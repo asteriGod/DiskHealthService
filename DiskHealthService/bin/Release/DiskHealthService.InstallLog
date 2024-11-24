@@ -1,0 +1,240 @@
+﻿'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe derlemesinde RunInstallerAttribute.Yes özniteliğine sahip ortak yükleyiciler bulunamadı.
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe derlemesinde RunInstallerAttribute.Yes özniteliğine sahip ortak yükleyiciler bulunamadı.
+Yükleyici olmadığından InstallState dosyası kaldırılmalı.
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe derlemesinde RunInstallerAttribute.Yes özniteliğine sahip ortak yükleyiciler bulunamadı.
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe derlemesinde RunInstallerAttribute.Yes özniteliğine sahip ortak yükleyiciler bulunamadı.
+Yükleyici olmadığından InstallState dosyası kaldırılmalı.
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService hizmeti yükleniyor...
+DiskHealthService hizmeti başarıyla yüklendi.
+Application günlüğünde DiskHealthService EventLog kaynağı oluşturuluyor...
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService hizmeti yükleniyor...
+Application günlüğünde DiskHealthService EventLog kaynağı oluşturuluyor...
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService hizmeti yükleniyor...
+Application günlüğünde DiskHealthService EventLog kaynağı oluşturuluyor...
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService hizmeti yükleniyor...
+Application günlüğünde DiskHealthService EventLog kaynağı oluşturuluyor...
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService hizmeti yükleniyor...
+Application günlüğünde DiskHealthService EventLog kaynağı oluşturuluyor...
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService hizmeti yükleniyor...
+Application günlüğünde DiskHealthService EventLog kaynağı oluşturuluyor...
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService hizmeti yükleniyor...
+Application günlüğünde DiskHealthService EventLog kaynağı oluşturuluyor...
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService hizmeti yükleniyor...
+Application günlüğünde DiskHealthService EventLog kaynağı oluşturuluyor...
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService hizmeti yükleniyor...
+Application günlüğünde DiskHealthService EventLog kaynağı oluşturuluyor...
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService EventLog kaynağı kaldırılıyor.
+DiskHealthService hizmeti sistemden kaldırılıyor...
+DiskHealthService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService hizmeti yükleniyor...
+DiskHealthService hizmeti başarıyla yüklendi.
+Application günlüğünde DiskHealthService EventLog kaynağı oluşturuluyor...
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService hizmeti yükleniyor...
+Application günlüğünde DiskHealthService EventLog kaynağı oluşturuluyor...
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService EventLog kaynağı kaldırılıyor.
+DiskHealthService hizmeti sistemden kaldırılıyor...
+DiskHealthService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService hizmeti yükleniyor...
+DiskHealthService hizmeti başarıyla yüklendi.
+Application günlüğünde DiskHealthService EventLog kaynağı oluşturuluyor...
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService EventLog kaynağı kaldırılıyor.
+DiskHealthService hizmeti sistemden kaldırılıyor...
+DiskHealthService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService hizmeti yükleniyor...
+DiskHealthService hizmeti başarıyla yüklendi.
+Application günlüğünde DiskHealthService EventLog kaynağı oluşturuluyor...
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService EventLog kaynağı kaldırılıyor.
+DiskHealthService hizmeti sistemden kaldırılıyor...
+DiskHealthService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog
+DiskHealthService hizmeti yükleniyor...
+DiskHealthService hizmeti başarıyla yüklendi.
+Application günlüğünde DiskHealthService EventLog kaynağı oluşturuluyor...
+'C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.exe
+   logfile = C:\Users\perih\OneDrive\Masaüstü\ForGithub\DiskHealthService\DiskHealthService\bin\Release\DiskHealthService.InstallLog

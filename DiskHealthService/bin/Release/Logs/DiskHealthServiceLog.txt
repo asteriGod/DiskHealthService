@@ -1,0 +1,27 @@
+2024-11-24 04:54:56 - Sürücü: C:\, Kullanım: %57,84, Toplam: 236,59 GB, Boş: 99,76 GB
+2024-11-24 04:55:00 - Sürücü: C:\, Kullanım: %57,84, Toplam: 236,59 GB, Boş: 99,76 GB
+2024-11-24 04:55:00 - Disk Modeli: SAMSUNG MZVLQ256HAJD-00000, Durum: OK
+2024-11-24 04:55:03 - Sürücü: C:\, Kullanım: %57,84, Toplam: 236,59 GB, Boş: 99,76 GB
+2024-11-24 04:55:03 - Disk Modeli: SAMSUNG MZVLQ256HAJD-00000, Durum: OK
+2024-11-24 04:55:07 - Sürücü: C:\, Kullanım: %57,84, Toplam: 236,59 GB, Boş: 99,76 GB
+2024-11-24 04:55:07 - Disk Modeli: SAMSUNG MZVLQ256HAJD-00000, Durum: OK
+2024-11-24 04:55:10 - Sürücü: C:\, Kullanım: %57,84, Toplam: 236,59 GB, Boş: 99,76 GB
+2024-11-24 04:55:10 - Disk Modeli: SAMSUNG MZVLQ256HAJD-00000, Durum: OK
+2024-11-24 04:55:14 - Sürücü: C:\, Kullanım: %57,84, Toplam: 236,59 GB, Boş: 99,76 GB
+2024-11-24 04:55:14 - Disk Modeli: SAMSUNG MZVLQ256HAJD-00000, Durum: OK
+2024-11-24 04:55:18 - Sürücü: C:\, Kullanım: %57,84, Toplam: 236,59 GB, Boş: 99,76 GB
+2024-11-24 04:55:18 - Disk Modeli: SAMSUNG MZVLQ256HAJD-00000, Durum: OK
+2024-11-24 04:55:21 - Sürücü: C:\, Kullanım: %57,84, Toplam: 236,59 GB, Boş: 99,76 GB
+2024-11-24 04:55:21 - Disk Modeli: SAMSUNG MZVLQ256HAJD-00000, Durum: OK
+2024-11-24 04:55:25 - Sürücü: C:\, Kullanım: %57,84, Toplam: 236,59 GB, Boş: 99,76 GB
+2024-11-24 04:55:25 - Disk Modeli: SAMSUNG MZVLQ256HAJD-00000, Durum: OK
+2024-11-24 04:55:28 - Sürücü: C:\, Kullanım: %57,84, Toplam: 236,59 GB, Boş: 99,76 GB
+2024-11-24 04:55:29 - Disk Modeli: SAMSUNG MZVLQ256HAJD-00000, Durum: OK
+2024-11-24 04:55:32 - Sürücü: C:\, Kullanım: %57,84, Toplam: 236,59 GB, Boş: 99,76 GB
+2024-11-24 04:55:32 - Disk Modeli: SAMSUNG MZVLQ256HAJD-00000, Durum: OK
+2024-11-24 04:55:36 - Sürücü: C:\, Kullanım: %57,84, Toplam: 236,59 GB, Boş: 99,76 GB
+2024-11-24 04:55:36 - Disk Modeli: SAMSUNG MZVLQ256HAJD-00000, Durum: OK
+2024-11-24 04:55:39 - Sürücü: C:\, Kullanım: %57,84, Toplam: 236,59 GB, Boş: 99,76 GB
+2024-11-24 04:55:39 - Disk Modeli: SAMSUNG MZVLQ256HAJD-00000, Durum: OK
+2024-11-24 04:55:43 - Sürücü: C:\, Kullanım: %57,84, Toplam: 236,59 GB, Boş: 99,76 GB
+2024-11-24 04:55:43 - Disk Modeli: SAMSUNG MZVLQ256HAJD-00000, Durum: OK

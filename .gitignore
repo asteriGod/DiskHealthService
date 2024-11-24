@@ -1,0 +1,26 @@
+# Derlenmiş dosyalar
+*.class
+*.o
+*.so
+*.exe
+*.dll
+
+# Geçici dosyalar
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Bağımlılık dizinleri
+node_modules/
+venv/
+build/
+dist/
+
+# IDE geçici dosyaları
+.idea/
+.vscode/
+
+# Gizli bilgiler
+.env
+ 
