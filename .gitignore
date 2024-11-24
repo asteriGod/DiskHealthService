@@ -1,26 +1,34 @@
-# Derlenmiş dosyalar
-*.class
-*.o
-*.so
-*.exe
-*.dll
+# .NET Build Folders
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebug-*-
+[Dd]ebug/
+[Dd]ist/
 
-# Geçici dosyalar
-*.log
-*.tmp
-.DS_Store
-Thumbs.db
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-# Bağımlılık dizinleri
-node_modules/
-venv/
-build/
-dist/
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
 
-# IDE geçici dosyaları
-.idea/
+# VS Code directories
 .vscode/
 
-# Gizli bilgiler
-.env
- 
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
